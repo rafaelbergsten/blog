@@ -1,0 +1,3 @@
+superuser = admin
+password = djangotest
+
